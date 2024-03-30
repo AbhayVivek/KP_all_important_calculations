@@ -25,9 +25,7 @@ NAKSHATRAS = ['Ashwini','Bharani','Krittika','Rohini','Mrigashīrsha', 'Ardra', 
 'Maghā', 'PūrvaPhalgunī', 'UttaraPhalgunī', 'Hasta', 'Chitra', 'Svati', 'Vishakha', 'Anuradha', 'Jyeshtha', 'Mula', 
 'PurvaAshadha','UttaraAshadha', 'Shravana', 'Dhanishta','Shatabhisha', 'PurvaBhādrapadā', 'UttaraBhādrapadā', 'Revati']
 
-AYANAMSA_MAPPING = { "Lahiri": const.AY_LAHIRI, "Lahiri_1940" : const.AY_LAHIRI_1940, 
-                    "Lahiri_VP285": const.AY_LAHIRI_VP285, "Lahiri_ICRC" : const.AY_LAHIRI_ICRC, "Raman": const.AY_RAMAN,
-                    "Krishnamurti": const.AY_KRISHNAMURTI, "Krishnamurti_VP291": const.AY_KRISHNAMURTI_SENTHILATHIBAN,
+AYANAMSA_MAPPING = { "Lahiri": const.AY_LAHIRI, "Krishnamurti": const.AY_KRISHNAMURTI, "Raman": const.AY_RAMAN, "Krishnamurti_new": const.AY_KRISHNAMURTI_SENTHILATHIBAN
                     }
 
 
